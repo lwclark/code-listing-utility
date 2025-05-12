@@ -1,3 +1,5 @@
+#python -m code_lister.cli --path ..\tellshirley\
+
 import argparse
 import pyperclip
 from .lister import generate_code_listing
